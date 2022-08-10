@@ -11,7 +11,7 @@ import {Link} from 'react-router-dom'
 
 const Header = () => {
     return (
-        <div>
+        <div className='container'>
              {[false].map((expand) => (
         <Navbar key={expand} bg="light" expand={expand} className="mb-3">
           <Container fluid>

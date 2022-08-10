@@ -1,0 +1,56 @@
+[
+    {
+        "id":1,
+        "name":"CBC Test",
+        "description":"A complete blood count (CBC) is a blood test used to evaluate your overall health and detect a wide range of disorders, including anemia, infection and leukemia.",
+        "img":"https://i.ibb.co/MVk61tX/medical-technician-starting-mri-scan-procedure-mature-patient-examination-room-1.jpg",
+        "price":"5"
+        
+    },
+    {
+        "id":2,
+        "name":"MRI Scan",
+        "description":"Magnetic resonance imaging (MRI) is a type of scan that uses strong magnetic fields and radio waves to produce detailed images of the inside of the body.",
+        "img":"https://i.ibb.co/JcC5NBr/dna-strands.jpg",
+        "price":"50"
+        
+    },
+    {
+        "id":3,
+        "name":"DNA Test",
+        "description":"DNA, or deoxyribonucleic acid, is the hereditary material in humans and almost all other organisms. Nearly every cell in a person's body has the same DNA.",
+        "img":"https://i.ibb.co/Yj51sgm/portrait-doctor.jpg",
+        "price":"5"
+        
+    },
+    {
+        "id":4,
+        "name":"X-Ray",
+        "description":"An X-ray is a quick, painless test that produces images of the structures inside your body — particularly your bones.",
+        "img":"https://i.ibb.co/QfH6nwK/man-getting-ultrasound-abdomen-from-doctor.jpg",
+        "price":"5"
+        
+    },
+    {
+        "id":5,
+        "name":"Ultrasound",
+        "description":"Diagnostic ultrasound, also called sonography or diagnostic medical sonography, is an imaging method that uses sound waves to produce images of structures within your body.",
+        "img":"https://i.ibb.co/0D7rjKK/magnetic-resonance-imaging-machine-hospital.jpg",
+        "price":"12"
+        
+    },
+    {
+        "id":6,
+        "name":"CT Scan",
+        "description":"A computerized tomography (CT) scan combines a series of X-ray images taken from different angles around your body and uses computer processing to create cross-sectional images (slices) of the bones, blood vessels and soft tissues inside your body. CT scan images provide more-detailed information than plain X-rays do.",
+        "img":"https://i.ibb.co/DrmHdS6/hand-doctor-holding-blood-test-tube-during-covid-19-outbreak.jpg",
+        "price":"60"
+        
+    }
+]
+
+
+
+
+
+
