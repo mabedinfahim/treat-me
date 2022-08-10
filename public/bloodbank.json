@@ -1,0 +1,23 @@
+[
+    {
+        "id":1,
+        "name":"Red Cell Transfusion",
+        "description":"A patient suffering from an iron deficiency or anemia, a condition where the body does not have enough red blood cells, may receive a red blood cell transfusion. This type of transfusion increases a patient's hemoglobin and iron levels, while improving the amount of oxygen in the body.",
+        "img":"",
+        "price":15
+    },
+    {
+        "id":2,
+        "name":"Platelet transfusion",
+        "description":"Platelet transfusion, also known as platelet concentrate, is used to prevent or treat bleeding in people with either a low platelet count or poor platelet function. Often this occurs in people receiving cancer chemotherapy. Preventive transfusion is often done in those with platelet levels of less than 10 x 109/L.",
+        "img":"",
+        "price":15
+    },
+    {
+        "id":3,
+        "name":"Plasma Transfusion",
+        "description":"transfusion of plasma, which consists of the noncellular portion of blood that is separated and frozen after collection, is used to treat and prevent bleeding in patients with coagulopathy and to replete plasma proteins that may be deficient.",
+        "img":"",
+        "price":15
+    }
+]

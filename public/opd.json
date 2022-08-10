@@ -1,0 +1,44 @@
+[
+    {
+        "id":1,
+        "name":"Medicine Specialist",
+        "description":"Around the world the term physician refers to a specialist in internal medicine or one of its many sub-specialties (especially as opposed to a specialist in surgery). This meaning of physician conveys a sense of expertise in treatment by drugs or medications, rather than by the procedures of surgeons.",
+        "img":"",
+        "price":12
+    },
+    {
+        "id":2,
+        "name":"Gestrology Specialist",
+        "description":"Gastroenterologists are doctors who are trained to diagnose and treat problems in your gastrointestinal (GI) tract and liver. These doctors also do routine procedures such as colonoscopies, which look at the inside of your colon. They get 5-6 years of specialized education after medical school.",
+        "img":"",
+        "price":12
+    },
+    {
+        "id":3,
+        "name":"Hepatology Specialist",
+        "description":"Liver failure occurs when your liver isn't working well enough to perform its functions (for example, manufacturing bile and ridding the body of harmful substances). Symptoms include nausea, loss of appetite, and blood in the stool. Treatments include avoiding alcohol and avoiding certain foods.",
+        "img":"",
+        "price":12
+    },
+    {
+        "id":4,
+        "name":"Neurology specialist",
+        "description":"Neurologists diagnose, treat and manage conditions affecting the brain and spinal cord, and disorders of the nerves and muscles that activate movement and transmit sensations from around the body to the brain.",
+        "img":"",
+        "price":12
+    },
+    {
+        "id":5,
+        "name":"Hematology Specialist",
+        "description":"Hematologists are internal medicine doctors or pediatricians who have extra training in disorders related to your blood, bone marrow, and lymphatic system. They're specialists who may work in hospitals, blood banks, or clinics. Hematologists who practice in labs are called hematopathologists.",
+        "img":"",
+        "price":12
+    },
+    {
+        "id":6,
+        "name":"Cardiology Specialist",
+        "description":"Cardiologists diagnose, assess and treat patients with defects and diseases of the heart and the blood vessels, which are known as the cardiovascular system.",
+        "img":"",
+        "price":12
+    }
+]
